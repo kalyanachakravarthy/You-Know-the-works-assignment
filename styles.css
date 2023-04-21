@@ -1,0 +1,105 @@
+.bg-container {
+    background-color: #ffb3b3;
+    height: auto;
+    width: 100%;
+    background-size: cover;
+}
+
+.icons-container {
+    padding: 10px;
+
+}
+
+.icon {
+    font-size: 40px;
+    border-width: 2px;
+    border-style: solid;
+    color: #1a0345;
+    border-color: #1a0345;
+    padding: 10px;
+    height: 65px;
+    width: 65px;
+    border-radius: 65px;
+    align-items: center;
+}
+
+.icon_1 {
+    font-size: 25px;
+    border-width: 2px;
+    border-style: solid;
+    background-color: #1a0345;
+    text-align: center;
+    color: #ffb3b3;
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+
+}
+
+.icon-container {
+    padding: 10px;
+
+
+}
+
+.heading_1 {
+    font-size: 10px;
+    padding: 7px;
+    color: #1a0345;
+}
+
+.heading_11 {
+    font-size: 10px;
+    padding: 3px;
+    color: #1a0345;
+}
+
+.heading_2 {
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #1a0345;
+}
+
+.description {
+    font-size: 10px;
+    font-family: "Roboto";
+    color: #1a0345;
+}
+
+.container_11 {
+    border-bottom: solid 3px #1a0345;
+    width: 100vw;
+
+}
+
+.container_12 {
+    border-left: solid 3px;
+    padding: 10px;
+}
+
+.dates {
+    font-size: 10px;
+    padding: 10px;
+    color: #1a0345;
+}
+
+.des_1 {
+    font-size: 10px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #1a0345;
+}
+
+.span {
+    font-weight: 400;
+    color: #1a0345;
+}
+
+.dot {
+    font-weight: bold;
+    margin: 0px;
+    padding: 0px;
+    color: #1a0345;
+}
